@@ -1,0 +1,12 @@
+{
+    "name": "expfactory_hierarchical_rule",
+    "alt_name": "Hierarchical Task",
+    "description": "In this task, subjects are presented with 18 stimuli composed of three dimensions: 3 shapes, 3 orientations and 2 colored borders. Subjects had to learn one of three key responses for each of the 18 stimuli. In the 'flat' condition, the 18:3 mapping was arbitrary, requiring subjects to individually learn each of the 18 associations. In a hierarchical condition, the colored borders indicated whether 'orientation' or 'shape' determined the response. This simplifies performance if subjects learn this hierarchical structure.",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_hierarchical_rule.git"}, 
+    "contributors": ["Ian Eisenberg", "Zeynep Enkavi", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "24",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "trm_5696bb7166121"} ],
+    "reference": "http://www.sciencedirect.com/science/article/pii/S0896627310001960  http://titan.cog.brown.edu/research/badrelab/papers/Cereb.%20Cortex-2011-Frank-cercor-bhr114.pdf http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3278316/"
+}
